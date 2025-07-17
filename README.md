@@ -4,3 +4,5 @@ We have visualised data into 4 main Dashboards, they are:
 2. Sum of boxes shipped by product:- where we have plotted a bar chart of the number of boxes shipped of a particular chocolate product (i.e eclair, milk bars) by which we can get an insight that which of our product is being sold the most and which products inventory we need to line up or decrease.
 3. Sum of Amount by Month:- where we have plotted a line chart of the amount gained by the company in every month. We get an insight of the sales increasing or decreasing in the following month and can conclude the reason behind less sales and work on it for the next month.
 4. Sum of Amount by Month and Sales Person:- where we have plotted a column chart of the sum of amount gained in every month by the particular salesman. By which we can get insights of the performance of every employee and make better decision for the company.
+
+**Begineers can refer this project for fair porpose. I have also attached the dataset file used in the project.**
